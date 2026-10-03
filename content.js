@@ -10,10 +10,10 @@ const C = {
     {
       type:"hero",
       eyebrow:"",
-      title:"Para o amor da minha vida...",
+      title:"Para a minha sarninha",
       subtitle:"Uma pequena história sobre nós.",
-      date:"12/03/2023 → ∞",
-      button:"Começar nossa história ❤️"
+      date:"01/01/2024 → ∞",
+      button:"Clique para começar nossa história ❤️"
     },
     {
       type:"text", eyebrow:"🌙 Introdução", title:"Meu amor,",
@@ -38,6 +38,7 @@ const C = {
     {
       type:"text", eyebrow:"💋 12/03/2023 — 03:41", title:"O nosso primeiro beijo.",
       text:[
+        
         "Até que chegou o dia <strong>12/03/2023, exatamente às 03:41 da manhã.</strong>",
         "O nosso primeiro beijo.",
         "E, para mim, aquilo foi surreal.",
